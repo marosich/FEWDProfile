@@ -1,0 +1,19 @@
+.company {
+	font-weight: bold;
+
+}
+
+.title {
+	font-style: italic;
+	font-weight: bold;
+}
+
+li {
+    list-style-position: inside;
+    padding-left: 10px;
+    margin: 0;
+}
+
+p {
+	margin: 0;
+}
